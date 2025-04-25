@@ -1,0 +1,18 @@
+* {
+
+}
+/*style for body*/
+body {
+	background-color: #000957;
+}
+
+/*style for container*/
+.container {
+	background-color: #A9B5DF;
+	color: black;
+}
+
+/*style for image*/
+img {
+	width: 300px;
+}
